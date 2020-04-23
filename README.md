@@ -1,3 +1,0 @@
-# Rehmanhack
-
-rehmanhack.py
